@@ -44,8 +44,8 @@ const person = {
     age:16,
     isMarried:false,
 };
-const name = person.name
-const age = person.age
+//const name = person.name
+//const age = person.age
 const isMarried = person.isMarried
 
 //destructing property of objects
